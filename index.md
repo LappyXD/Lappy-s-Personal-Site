@@ -12,16 +12,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+I'm Lappy, Hello There
 ## Header 2
+I like rhythm games, Vtubers and touhou.
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+You can contact me via Discord, my username is Lappy#2614.
 
 [Link](url) and ![Image](src)
 ```
